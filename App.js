@@ -23,8 +23,8 @@ class App extends Component {
           imgperfil:
             'https://sujeitoprogramador.com/instareact/fotoPerfil1.png',
           imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto1.png',
-          likeada: false,
-          likers: 0,
+          likeada: true,
+          likers: 1,
         },
         {
           id: '2',
